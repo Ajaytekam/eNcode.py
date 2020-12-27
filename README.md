@@ -1,6 +1,6 @@
 # eNcode.py : numeric html encoder
 
-Convert string into HTML encoded value (with numeric values of ascii). It is very useful in Web Attacks like HTML/Code Injection.  
+Convert string into HTML encoded value (with numeric values of ascii). It is useful in Web Attacks like HTML/Code Injection.  
 
 Usage :  
 
